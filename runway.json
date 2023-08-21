@@ -1,0 +1,25 @@
+[
+	{
+		"FileName": "prada_1999_ss_menswear_001.jpeg",
+		"ArtifactName": "Prada Menswear Spring Summer 1999 001",
+		"ArtifactGroup": "Ready-to-wear",
+		"MetaData": {
+      "Designer": "Miuccia Prada",
+      "Collection": "Mens",
+      "Year": "1999",
+      "Season": "Spring Summer"
+    }
+	},
+
+	{
+		"FileName": "prada_1999_ss_menswear_002.jpeg",
+		"ArtifactName": "Prada Menswear Spring Summer 1999 002",
+		"ArtifactGroup": "Ready-to-wear",
+		"MetaData": {
+      "Designer": "Miuccia Prada",
+      "Collection": "Mens",
+      "Year": "1999",
+      "Season": "Spring Summer"
+    }
+	}
+]
